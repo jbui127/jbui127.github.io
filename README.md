@@ -1,5 +1,7 @@
 # jbui127.github.io
 
-[Click Me for Home Page](https://jbui127.github.io/)
+### Full Name: Jimmy Bui
 
-![clipart4667614](https://github.com/jbui127/jbui127.github.io/assets/143001625/f78b023d-466d-464c-9db2-3925a7429725)
+### School: University of Connecticut
+
+![Connecticut_Huskies_logo svg](https://github.com/jbui127/jbui127.github.io/assets/143001625/d351367f-f5f0-4d62-9e18-d937d93cc8a7)
